@@ -1,7 +1,7 @@
 # img_scraping
 イメージファイルを取得するプログラムです
 
-usage
+## usage
 ```
 $ phtyon scraping.py url dir
 ```
